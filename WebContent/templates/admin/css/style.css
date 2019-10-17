@@ -1,0 +1,171 @@
+#wrapper{}
+#name-error{
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    color: red;
+}
+#username-error{
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    color: red;
+}
+#active{text-align: center;}
+.center{text-align: center;}
+#usertable{padding-top: 35px;}
+#password-error{
+    position: absolute;
+    top: 74px;
+    left: 200px;
+    color: red;
+}
+#fullname-error{
+    position: absolute;
+    top: 148px;
+    left: 200px;
+    color: red;
+}
+#nameNews-error{
+    position: absolute;
+    top: -1px;
+    left: 300px;
+    color: red;
+}
+#parent_cat-error{
+    position: absolute;
+    left: 300px;
+    color: red;
+}
+#imageedit{
+	position: absolute;
+    top: 97px;
+    left: 190px;
+    border: 1px solid wheat;
+    border-radius: 3px;
+}
+#creatBy-error{
+    position: absolute;
+    top: 188px;
+    left: 300px;
+    color: red;
+}
+#active-error{
+    position: absolute;
+    top: 262px;
+    left: 300px;
+    color: red;
+}
+#preview-error{
+    position: relative;
+    left: 239px;
+    color: red;
+}
+#detail-error{
+    position: absolute;
+    left: 300px;
+    color: red;
+}
+#searchinput-error{
+	position: absolute;
+    top: -22px;
+    width: 200px;
+    right: 95px;
+    color: red;
+}
+#number-error{
+    position: absolute;
+    top: 74px;
+    left: 200px;
+    color: red;
+}
+#menudequi{}
+#menu{margin: 5px;}
+#rowwrapper{
+    padding-top: 51px;
+}
+#content{
+    height: 450px;
+}
+#col-lg-6{
+    width: 100%;
+}
+#content_add{
+    height: 450px;
+    padding-top: 30px;
+}
+#index h4{
+	    text-align: center;
+		position: relative;
+		top: 15px;
+}
+#pagination{
+	float: right;
+}
+#footermain{}
+#search{
+	width: 300px;
+    float: right;
+}
+#search form{}
+#searchinput{
+    width: 275px;
+}
+#searchicon{
+    display: block;
+}
+#slide{
+    width: 450px;
+    border: 7px solid antiquewhite;
+    border-radius: 12px;
+    margin: 35px auto;
+}
+#footer{
+	/* text-align: center; */
+	/* position: relative; */
+	/* top: 15px; */
+	/* color: wheat; */
+	background-color: #222;
+	height: 50px;
+}
+#footer p{
+    text-align: center;
+    position: relative;
+    top: 15px;
+    color: wheat;
+}
+#editcontent{
+    position: relative;
+    top: 30px;
+}
+.success{
+	text-align: center;
+    font-size: 27px;
+}
+#formcss{}
+#danhmuccon{
+    height: 10px;
+    width: 50px;
+    padding-bottom: 25px;
+}
+#iconcomment{
+	position: relative;
+	top: 3px;
+	/* left: 6px; */
+}
+#delete{
+    position: relative;
+    top: -35px;
+    left: 80px;
+}
+#edit{
+    position: relative;
+    top: -35px;
+    left: 70px;
+}
+#footerpage{
+    margin-bottom: -20px;
+    border-radius: 0px;
+}
+#header{}
+#secondcat{}
